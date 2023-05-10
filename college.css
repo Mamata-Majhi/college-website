@@ -1,3 +1,9 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
 .admin:hover
 {
     color: blue;
@@ -53,4 +59,11 @@ font-family: cursive;
 {
     height:300px;
     width: 450px;
+}
+.aims
+{
+    height: 150px !important ;
+    width: 250px !important;
+    border-radius: 15px;
+  
 }
