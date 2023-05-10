@@ -42,3 +42,15 @@ font-family: cursive;
 {
     width: 200%;
 }
+.kidimage
+{
+   height: 400px;
+   width: 400px;
+   border-radius: 50%;
+   border: 2px solid black;
+}
+.div2
+{
+    height:300px;
+    width: 450px;
+}
