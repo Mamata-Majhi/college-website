@@ -1,74 +1,82 @@
-*
-{
+* {
     margin: 0;
     padding: 0;
 
 }
-.admin:hover
-{
+
+.admin:hover {
     color: blue;
 }
-.adminbutton
-{
+
+.adminbutton {
     color: blue;
     border: 1px solid blue;
     border-radius: 5px;
 }
-.adminbutton:hover{
-    color:red;
+
+.adminbutton:hover {
+    color: red;
     border: 1px solid red;
 }
-.nav{
+.logo
+{
+    height: 150px;
+    width: 160px;
+}
+
+.nav {
     font-size: 19px;
 }
-.nav:hover
-{
+
+.nav:hover {
     color: red;
 }
-.slider
-{
+
+.slider {
     width: 100%;
     height: 650px;
 }
-.video
-{
-    width:150rem;
+
+.video {
+    width: 150rem;
 }
-.readmore:hover{
+
+.readmore:hover {
     background-color: white;
     color: black;
     border: 1px solid black;
 }
-.news
-{
+
+.news {
     margin-left: 70rem;
-font-family: cursive;
+    font-family: cursive;
 }
-.welcome
-{
+
+.welcome {
     width: 200%;
 }
-.kidimage
-{
-   height: 400px;
-   width: 400px;
-   border-radius: 50%;
-   border: 2px solid black;
+
+.kidimage {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    border: 2px solid black;
+    box-shadow: black;
 }
-.div2
-{
-    height:300px;
+
+.div2 {
+    height: 300px;
     width: 450px;
 }
-.aims
-{
-    height: 150px !important ;
+
+.aims {
+    height: 150px !important;
     width: 250px !important;
     border-radius: 15px;
-  
+
 }
-.gallery
-{
+
+.gallery {
     height: 200px;
     width: 300px;
     margin: 6px;
